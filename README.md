@@ -1,4 +1,4 @@
-# thunr_chef_app_screenshot cookbook
+# chef_app_screenshot cookbook
 
 # Requirements
 
@@ -10,4 +10,3 @@
 
 # Author
 
-Author:: YOUR_NAME (<YOUR_EMAIL>)

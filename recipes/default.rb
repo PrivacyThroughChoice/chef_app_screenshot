@@ -1,8 +1,8 @@
 #
-# Cookbook Name:: thunr_chef_app_screenshot
+# Cookbook Name:: chef_app_screenshot
 # Recipe:: default
 #
-# Copyright (C) 2013 YOUR_NAME
+# Copyright (C) 2014 Privacy Through Choice
 # 
 # All rights reserved - Do Not Redistribute
 #

@@ -8,8 +8,8 @@ Background:
 
   Given I have provisioned the following infrastructure:
   | Server Name         | Operating System    | Version   | Chef Version    | Run List         |
-  | thunr_chef_app_screenshot-ubuntu-1204 | ubuntu              | 12.04     | 11.8.0          | thunr_chef_app_screenshot::default |
-  | thunr_chef_app_screenshot-centos-64   | centos              | 6.4       | 11.8.0          | thunr_chef_app_screenshot::default |
+  | chef_app_screenshot-ubuntu-1204 | ubuntu              | 12.04     | 11.8.0          | chef_app_screenshot::default |
+  | chef_app_screenshot-centos-64   | centos              | 6.4       | 11.8.0          | chef_app_screenshot::default |
   And I have run Chef
 
 Scenario: System has bash
