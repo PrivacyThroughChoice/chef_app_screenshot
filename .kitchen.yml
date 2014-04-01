@@ -12,7 +12,7 @@ platforms:
 suites:
   - name: default
     run_list:
-      - recipe[thunr_chef_app_screenshot::default]
+      - recipe[chef_app_screenshot::default]
     attributes:
 settings:
   parallel: true
